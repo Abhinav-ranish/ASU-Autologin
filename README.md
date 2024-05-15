@@ -24,7 +24,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://raw.githubusercontent.com/amitmerchant1990/electron-markdownify/master/app/img/markdownify.gif)
+![screenshot](https://youtu.be/SxLpP7ES3-o)
 
 ## Key Features
 
@@ -32,11 +32,7 @@
 * Cross-platform
   - Windows, macOS and Linux ready.
 
-## How To Use
-
-Download the pre-build installer found in [Releases](https://github.com/Abhinav-ranish/ASU-Autologin/releases)
-
-### To Build it yourself
+## How to Use
 
 To clone and run this application, you'll need [Git](https://git-scm.com) and [Python](https://www.python.org/downloads/) installed on your computer. From your command line:
 
@@ -61,6 +57,11 @@ $ python autoopener.py
 
 
 ## For Enquiries @ aranish@asu.edu 
+
+## Download
+
+Download the pre-build installer found in [Releases](https://github.com/Abhinav-ranish/ASU-Autologin/releases)
+
 
 ## Credits
 
