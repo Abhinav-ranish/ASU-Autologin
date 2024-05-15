@@ -24,7 +24,7 @@
   <a href="#license">License</a>
 </p>
 
-![screenshot](https://youtu.be/SxLpP7ES3-o)
+![screenshot][![](https://img.youtube.com/vi/SxLpP7ES3-o.jpg)](https://youtu.be/)
 
 ## Key Features
 
