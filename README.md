@@ -51,9 +51,9 @@ $ python autoopener.py
 ```
 
 > **Note**
-> You will require a new Duo OTP every time you re-run.
-> All your credentials are saved in [asu_crendentials.yaml](https://github.com/Abhinav-ranish/ASU-Autologin/blob/main/asu_credentials.yaml)
-> Your DUO OTP is saved in [duopush.txt](https://github.com/Abhinav-ranish/ASU-Autologin/blob/main/duopush.txt)
+> You will require a new Duo OTP every time you re-run.  &nbsp;&middot;&nbsp;
+> All your credentials are saved in [asu_crendentials.yaml](https://github.com/Abhinav-ranish/ASU-Autologin/blob/main/asu_credentials.yaml)  &nbsp;&middot;&nbsp;
+> Your DUO OTP is saved in [duopush.txt](https://github.com/Abhinav-ranish/ASU-Autologin/blob/main/duopush.txt) &nbsp;&middot;&nbsp;
 
 
 ## For Enquiries @ aranish@asu.edu 
@@ -85,7 +85,7 @@ MIT
 
 ---
 
-> LinkdIn[abhinav_ranish](https://www.linkedin.com/in/abhinavranish/) &nbsp;&middot;&nbsp;
+> LinkdIn [abhinav_ranish](https://www.linkedin.com/in/abhinavranish/) &nbsp;&middot;&nbsp;
 > GitHub [@abhinav-ranish](https://github.com/abhinav-ranish) &nbsp;&middot;&nbsp;
 > Instagram [@abhinav.ranish](https://instagram.com/abhinav.ranish)
 
