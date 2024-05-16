@@ -56,7 +56,7 @@ $ python autoopener.py
 > Your DUO OTP is saved in [duopush.txt](https://github.com/Abhinav-ranish/ASU-Autologin/blob/main/duopush.txt) &nbsp;&middot;&nbsp;
 
 
-## For Enquiries @ aranish@asu.edu 
+## For Enquiries email @ aranish@asu.edu 
 
 ## Download
 
