@@ -1,3 +1,8 @@
+# Project Archived
+
+This project has been archived.  
+If you're interested in forking the auto-login functionality, please refer to the **[ASU CLASS Enroller](https://github.com/Abhinav-ranish/ASU-ClassEnroller)** project.
+
 
 <h1 align="center">
   <br>
